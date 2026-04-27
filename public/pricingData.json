@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "membershipType": "Basic",
+    "price": 1000,
+    "duration": "Monthly",
+    "popular": false,
+    "description": "Perfect for beginners starting their fitness journey.",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "Free water",
+      "1 free trainer consultation"
+    ],
+    "limitations": [
+      "No personal trainer",
+      "No group classes"
+    ]
+  },
+  {
+    "id": 2,
+    "membershipType": "Standard",
+    "price": 2500,
+    "duration": "Monthly",
+    "popular": true,
+    "description": "Best for regular gym-goers who want guided workouts.",
+    "features": [
+      "All Basic features",
+      "Access to group classes",
+      "Diet plan guidance",
+      "2 trainer sessions per week"
+    ],
+    "limitations": []
+  },
+  {
+    "id": 3,
+    "membershipType": "Premium",
+    "price": 5000,
+    "duration": "Monthly",
+    "popular": false,
+    "description": "Ideal for serious fitness enthusiasts.",
+    "features": [
+      "All Standard features",
+      "Personal trainer",
+      "Customized workout plan",
+      "Access to sauna & steam",
+      "Priority support"
+    ],
+    "limitations": []
+  },
+  {
+    "id": 4,
+    "membershipType": "Annual Pro",
+    "price": 25000,
+    "duration": "Yearly",
+    "discount": "Save 20%",
+    "popular": false,
+    "description": "Best value for long-term commitment.",
+    "features": [
+      "All Premium features",
+      "Free gym merchandise",
+      "Free body composition analysis",
+      "Unlimited trainer access"
+    ],
+    "limitations": []
+  }
+]
